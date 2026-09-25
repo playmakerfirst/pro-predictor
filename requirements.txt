@@ -1,1 +1,6 @@
-Fix requirements
+streamlit
+pandas
+numpy
+scipy
+scikit-learn
+requests
